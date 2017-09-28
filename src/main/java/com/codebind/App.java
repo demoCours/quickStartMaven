@@ -2,7 +2,7 @@ package com.codebind;
 
 public class App {
 
-	public String sample()
+	public String samples()
 	{
 		return "sample2";
 	}
