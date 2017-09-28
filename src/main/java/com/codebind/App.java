@@ -4,7 +4,7 @@ public class App {
 
 	public String samplle()
 	{
-		return "sample";
+		return "sample2";
 	}
 	
 }
